@@ -1,16 +1,18 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Plus"
         ],
         "platforms": [
-            "insert platforms"
+            "Desktop"
         ],
         "toolkits": [
-            "insert toolkits"
+            "openframeworks",
+            "opengl"
         ]
     },
     "themes": [
-        "insert themes"
+        "Image",
+        "Algorithm"
     ]
 }
